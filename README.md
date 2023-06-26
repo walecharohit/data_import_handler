@@ -32,7 +32,7 @@ The success of this project relies on contributions from the broader community t
 
 * Add repository:
 
-    `bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/searchscale/dataimporthandler/master/repo/"`
+    `bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/walecharohit/data_import_handler/branch_9_2_1/repo/"`
 
 * See available packages:
 
